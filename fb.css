@@ -42,7 +42,7 @@ body{
 }
 .login{
     padding-top:10px;
-    padding-left:-1px;
+    
 }
 .forgot{
     color:#fff;
@@ -60,4 +60,30 @@ body{
 }
 .sub-btn:hover{
     background: #606770;
+}
+.left-section{
+    width:50%;
+    float:left;
+}
+.right-section{
+    width:50%;
+    float:left;
+}
+.main-body
+{
+background:#D3D8E8;
+width:100%;
+height:500px;
+}
+.image{
+ height:121px;
+ padding-left: 134px;
+  padding-top:52px;
+  
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    padding-left: 134px;
+  pad
 }
