@@ -1,0 +1,19 @@
+.header
+{
+    width:100%;
+    background:#3b5998;
+    height:150px;
+}
+body{
+    margin:0;
+}
+.logo
+{
+    width:50%;
+
+}
+.login
+{
+    width:50%;
+    
+}
